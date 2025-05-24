@@ -54,7 +54,7 @@ A simple web-based application that provides encryption and decryption tools for
 ## Project Structure
 
 ```
-cipher-suite/
+CRVV-Cipher-Solution/
 ├── index.html          # Homepage with cipher selection
 ├── about.html          # About Us page
 ├── caesar.html         # Caesar Cipher page
