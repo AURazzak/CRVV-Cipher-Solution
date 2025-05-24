@@ -53,6 +53,7 @@ A simple web-based application that provides encryption and decryption tools for
 
 ## Project Structure
 
+```
 cipher-suite/
 ├── index.html          # Homepage with cipher selection
 ├── about.html          # About Us page
@@ -61,3 +62,5 @@ cipher-suite/
 ├── vigenere.html       # Vigenère Cipher page
 ├── vernam.html         # Vernam Cipher page
 └── README.md           # Project documentation
+```
+
